@@ -126,7 +126,7 @@ input {
 
 /* Fade In animation for the divs that separate the three parts of the game */
 .fadeIn {
-    animation: fadeIn 4s;
+    animation: fadeIn 3s;
   }
   
   @keyframes fadeIn {
